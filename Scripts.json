@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Race Clicker GUI",
+    "game": "Race Clicker",
+    "description": "A simple GUI for Race Clicker.",
+    "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/catnapwastaken/Race-Clicker-Gui/refs/heads/main/race_clicker_gui_script.lua'))()"
+  },
+  {
+    "name": "ZapHub",
+    "game": ["Pet Simulator 99", "Pets GO!", "Grow a Garden"],
+    "description": "Power full script",
+    "loadstring": "loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()"
+  }
+]
